@@ -1,0 +1,1 @@
+http://uva.onlinejudge.org/external/3/348.pdf
