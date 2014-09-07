@@ -1,7 +1,6 @@
 /*	
 	not yet submitted
-	main prints "Case #: 37" regardless of input.
-	print_tree  returns "((null) x (null))" regardless of input.
+	returns "((null) x (null))" regardless of input.
 */
 
 #include <stdio.h>
